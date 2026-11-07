@@ -10,7 +10,7 @@
 ●ASP.NET Core Web API\
 ●EntityFrameworkCore\
 ●Sqlserver\
-●Xuni
+●Xunit
 
 
 ### 仕様
