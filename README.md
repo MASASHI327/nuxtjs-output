@@ -1,75 +1,29 @@
-# Nuxt Minimal Starter
+### 技術構成
+フロントエンド
+●typescript: 5.9.3
+●nuxt: 3.14.1592
+●vue: latest
+●vue-router: latest
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+バックエンド
+●C# 
+●ASP.NET Core Web API\
+●EntityFrameworkCore\
+●Sqlserver\
+●Xuni
 
-## Setup
 
-Make sure to install dependencies:
+### 仕様
 
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+●認証機能
+ ●ログイン
+ ●会員登録
+ ●ログアウト
+ 
+●Todo リスト
+ ●一覧表示
+ ●検索処理
+ ●新規登録処理
+ ●詳細表示
+ ●編集処理
+ ●削除処理
