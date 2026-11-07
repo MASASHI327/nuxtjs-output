@@ -7,9 +7,9 @@
 * Vue Router: `latest`
 
 ## バックエンド
-* C#
-* ASP.NET Core Web API
-* Entity Framework Core
+* C#: `C# 12`
+* ASP.NET Core Web API: `.NET 8.0`
+* Entity Framework Core: `EF Core 9.0`
 * SQL Server
 * xUnit
 
